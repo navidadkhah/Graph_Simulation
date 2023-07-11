@@ -7,7 +7,7 @@
   </tr>
    <tr>
      <th> <a href="https://github.com/nawidadkhah/Graph_Simulation/blob/main/Graph_Q2.ipynb">Graph2</a></th>
-    <th>Create RSRBG Graph and other parameters/th>
+    <th>Create RSRBG Graph and other parameters</th>
   </tr>
    <tr>
     <th><a href="https://github.com/nawidadkhah/Graph_Simulation/blob/main/Graph_Q3.ipynb">Graph 3</a></th>
