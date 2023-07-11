@@ -17,4 +17,8 @@
      <th> <a href="https://github.com/nawidadkhah/Graph_Simulation/blob/main/4.py">Graph4</a></th>
     <th>In this part , 100 nodes are considered for each graph. from the function bipartite.random_graph We create a random bipartite graph. Then, using bipartite.projected_graph, project the bipartite graph on the first set of nodes to obtain the recursive bipartite graph without measure S. Finally, the degree distribution and The PDF is calculated and plotted.</th>
   </tr>
+ <tr>
+    <th><a href="https://github.com/nawidadkhah/Graph_Simulation/blob/main/4-eigenvalue and degree distirbution plots.py">Graph 4-part 2</a></th>
+    <th>Eigenvalues of the adjacency matrix of each graph using np.linalg.eigvals function Is calculated . Then, we generate a histogram of eigenvalues and also calculate the PDF. Finally, we plot the eigenvalue distribution for each graph.</th>
+  </tr>
 </table>
