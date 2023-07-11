@@ -31,18 +31,18 @@
   </tr>
  <tr>
      <th> <a href="https://github.com/nawidadkhah/Graph_Simulation/blob/main/Graph_Q7.ipynb">Graph7</a></th>
-    <th>Create RSRBG Graph and other parameters</th>
+    <th>Generating graphs with most waist with an specific average degree and size.</th>
   </tr>
  <tr>
     <th><a href="https://github.com/nawidadkhah/Graph_Simulation/blob/main/Graph_Q8.ipynb">Graph 8</a></th>
-    <th>Calculate algebratic connectivity and spectral gap and others for<br> erdos renyi and watts strogatz and barabasi albert graph</th>
+    <th>Calculation of network isolation probability using simulation tests.</th>
   </tr>
  <tr>
      <th> <a href="https://github.com/nawidadkhah/Graph_Simulation/blob/main/9-1.py">Graph 9-Part 1</a></th>
-    <th>Create RSRBG Graph and other parameters</th>
+    <th>TTT plot based on scaled time for nodes lifetime distributions in constructed networks is drawn.</th>
   </tr>
  <tr>
     <th><a href="https://github.com/nawidadkhah/Graph_Simulation/blob/main/9.py">Graph 9-Part 2</a></th>
-    <th>Calculate algebratic connectivity and spectral gap and others for<br> erdos renyi and watts strogatz and barabasi albert graph</th>
+    <th>NWUE-ness in thick tail , Weibull and pareto distribution when plot parameters is considered stable and scale parameters is changing is studied . after that considering 5% for error , we calculate p-value for H0:X~Y versus HA:X>=NWUE Y  </th>
   </tr>
 </table>
