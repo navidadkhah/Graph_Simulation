@@ -21,4 +21,8 @@
     <th><a href="https://github.com/nawidadkhah/Graph_Simulation/blob/main/4-eigenvalue and degree distirbution plots.py">Graph 4-part 2</a></th>
     <th>Eigenvalues of the adjacency matrix of each graph using np.linalg.eigvals function Is calculated . Then, we generate a histogram of eigenvalues and also calculate the PDF. Finally, we plot the eigenvalue distribution for each graph.</th>
   </tr>
+ <tr>
+    <th><a href="https://github.com/nawidadkhah/Graph_Simulation/blob/main/5.py">Graph 5</a></th>
+    <th>We generate SF graph with 500 nodes and degree 4 for each node 1000 times or more ,Then we generate the probability density function of the degree distribution (PDF) in the log-log scale for each. In the next step, we divide the production of SF graphs into categories that Each batch contains the number of batch_size  (ten).  after producing each batch, We print the progress. We calculate the average degree for each network size by generating num_graphs SF graphs for each size and their average degrees. Then  we get the Average degree plot drawn based on the size of the corresponding network.</th>
+  </tr>
 </table>
