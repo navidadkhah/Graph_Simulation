@@ -25,4 +25,8 @@
     <th><a href="https://github.com/nawidadkhah/Graph_Simulation/blob/main/5.py">Graph 5</a></th>
     <th>We generate SF graph with 500 nodes and degree 4 for each node 1000 times or more ,Then we generate the probability density function of the degree distribution (PDF) in the log-log scale for each. In the next step, we divide the production of SF graphs into categories that Each batch contains the number of batch_size  (ten).  after producing each batch, We print the progress. We calculate the average degree for each network size by generating num_graphs SF graphs for each size and their average degrees. Then  we get the Average degree plot drawn based on the size of the corresponding network.</th>
   </tr>
+  <tr>
+    <th><a href="https://github.com/nawidadkhah/Graph_Simulation/blob/main/Graph_Q6.ipynb">Graph 6</a></th>
+    <th>Calculation of inconsistency probability for x-regular graphs when we eliminate edges one by one to make the graph inconsistent using simulation test.then we do so for RSRBG graphs in size 500 for nodes and 1500 for edges. Edge, algebraic and nodal connectivity is calculated in each step.</th>
+  </tr>
 </table>
