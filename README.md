@@ -29,4 +29,20 @@
     <th><a href="https://github.com/nawidadkhah/Graph_Simulation/blob/main/Graph_Q6.ipynb">Graph 6</a></th>
     <th>Calculation of inconsistency probability for x-regular graphs when we eliminate edges one by one to make the graph inconsistent using simulation test.then we do so for RSRBG graphs in size 500 for nodes and 1500 for edges. Edge, algebraic and nodal connectivity is calculated in each step.</th>
   </tr>
+ <tr>
+     <th> <a href="https://github.com/nawidadkhah/Graph_Simulation/blob/main/Graph_Q7.ipynb">Graph7</a></th>
+    <th>Create RSRBG Graph and other parameters</th>
+  </tr>
+ <tr>
+    <th><a href="https://github.com/nawidadkhah/Graph_Simulation/blob/main/Graph_Q8.ipynb">Graph 8</a></th>
+    <th>Calculate algebratic connectivity and spectral gap and others for<br> erdos renyi and watts strogatz and barabasi albert graph</th>
+  </tr>
+ <tr>
+     <th> <a href="https://github.com/nawidadkhah/Graph_Simulation/blob/main/9-1.py">Graph 9-Part 1</a></th>
+    <th>Create RSRBG Graph and other parameters</th>
+  </tr>
+ <tr>
+    <th><a href="https://github.com/nawidadkhah/Graph_Simulation/blob/main/9.py">Graph 9-Part 2</a></th>
+    <th>Calculate algebratic connectivity and spectral gap and others for<br> erdos renyi and watts strogatz and barabasi albert graph</th>
+  </tr>
 </table>
