@@ -46,3 +46,5 @@
     <th>NWUE-ness in thick tail , Weibull and pareto distribution when plot parameters is considered stable and scale parameters is changing is studied . after that considering 5% for error , we calculate p-value for H0:X~Y versus HA:X>=NWUE Y  </th>
   </tr>
 </table>
+
+
