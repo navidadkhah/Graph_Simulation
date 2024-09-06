@@ -47,4 +47,12 @@
   </tr>
 </table>
 
+# How to use?
+You can easily run the ```Gui.py``` file. It is a simple UI for opening each Colab file using ```tkinter``` libraries. When you run the file, it opens a window and has 9 blocks, you can tab which one you want and it opens for you in Google Colab.
+
+# License
+This project is under MIT license cover. If you like, you could change and modify codes under the license limits. 
+<br>
+**enjoy✌**
+
 
